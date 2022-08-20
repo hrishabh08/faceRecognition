@@ -1,3 +1,7 @@
+This is a face recognition app using python AI
+The concept used is haar cascade algorithm 
+OpenCV pacakges are used.
+
 sample output
 
 
